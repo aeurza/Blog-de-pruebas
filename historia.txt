@@ -7,6 +7,9 @@ cinco
 sesi
 siete
 ocho
-nueve 
+nueve
 diez
- 
+once
+doce
+trece
+catorce
