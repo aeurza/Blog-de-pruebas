@@ -6,3 +6,7 @@ cuatro
 cinco
 sesi
 siete
+ocho
+nueve 
+diez
+ 
